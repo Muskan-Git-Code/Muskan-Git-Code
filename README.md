@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Muskan-Git-Code
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: muskanmm2001@gmail.com
+- 👋 Hi, I’m Muskan, Software Engineer @Intuit
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently learning C, C++, JAVA, SQL, Android, Spring Boot, UNIX, HTML, CSS, JavaScript
+- 💞️ I’m looking to collaborate more on my skillset
+- 📫 How to reach me: muskan.mittal1002@gmail.com
 
 <!---
 Muskan-Git-Code/Muskan-Git-Code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
